@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:AppFinal"
              x:Class="AppFinal.MainPage">
-
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout VerticalOptions="Center">
+        <Editor Text="{Binding TextProperty}" />
+        <Label Text="{Binding TextProperty}" />
+    </StackLayout>
 
 </ContentPage>
