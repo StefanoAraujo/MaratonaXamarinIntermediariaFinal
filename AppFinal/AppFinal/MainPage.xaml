@@ -4,8 +4,12 @@
              xmlns:local="clr-namespace:AppFinal"
              x:Class="AppFinal.MainPage">
     <StackLayout VerticalOptions="Center">
-        <Editor Text="{Binding TextProperty}" />
-        <Label Text="{Binding TextProperty}" />
+        <Editor Text="{Binding TextProperty}"
+                TextColor="{StaticResource danger}"
+                BackgroundColor="{StaticResource info}" />
+        <Label Text="{Binding TextProperty}"
+               TextColor="{StaticResource success}"
+               BackgroundColor="{StaticResource warning}" />
     </StackLayout>
 
 </ContentPage>
