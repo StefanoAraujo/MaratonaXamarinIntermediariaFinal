@@ -1,4 +1,5 @@
-﻿using AppFinal.ViewModels;
+﻿using AppFinal.Service;
+using AppFinal.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,13 @@ namespace AppFinal
         {
             InitializeComponent();
             BindingContext = new MainViewModel();
+
+            this.btnLoadData.Clicked += async (sender, e) =>
+            {
+                var tags = await Api.GetTagsAsync();
+                this.lvwTags.ItemsSource = tags;
+            }; 
+
         }
     }
 }
