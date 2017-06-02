@@ -70,5 +70,6 @@ C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\bin\Debug\AppFinal.Android.dll.config
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\obj\Debug\AppFinal.Android.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal.Android\bin\Debug\AppFinal.Android.dll.mdb

@@ -13,6 +13,14 @@ C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.App.xaml.g.cs
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.dll
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.pdb
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\AppFinal.dll.config
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.csproj.App.config
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\bin\Debug\AppFinal.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediariaFinal\AppFinal\AppFinal\obj\Debug\AppFinal.dll.mdb
