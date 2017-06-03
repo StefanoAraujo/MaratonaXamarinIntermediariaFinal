@@ -12,6 +12,16 @@
                TextColor="{StaticResource success}"
                BackgroundColor="{StaticResource warning}" />
 
+        <Button Text="Login with Facebook"
+                BackgroundColor="Blue"
+                FontSize="Medium"
+                TextColor="White"
+                x:Name="btnFacebookLogin"></Button>
+
+        <Label TextColor="Black"
+               FontSize="Medium"
+               x:Name="lblInfo"></Label>        
+        
         <Button x:Name="btnLoadData"
                 Text="Load"
                 TextColor="{StaticResource success}" />

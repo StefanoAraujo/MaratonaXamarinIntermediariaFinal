@@ -11,6 +11,8 @@ namespace AppFinal
 {
     public partial class MainPage : ContentPage
     {
+        readonly AzureService azureService = new AzureService();
+
         public MainPage()
         {
             InitializeComponent();
@@ -20,8 +22,13 @@ namespace AppFinal
             {
                 var tags = await Api.GetTagsAsync();
                 this.lvwTags.ItemsSource = tags;
-            }; 
+            };
 
+            this.btnFacebookLogin.Clicked += async (sender, args) =>
+            {
+                var user = await azureService.LoginAsyn();
+                lblInfo.Text = (user != null) ? $"Welcome: {user.UserId}" : "Login Failed! Try again!";
+            };
         }
     }
 }
