@@ -10,7 +10,7 @@ namespace AppFinal.Service
 {
     public class AzureService
     {
-        static readonly string AppURL = "http://maratonfinalapp.azurewebsites.net";
+        static readonly string AppURL = "http://xamfinalappmaraton.azurewebsites.net";
 
         public MobileServiceClient Client { get; set; } = null;
 

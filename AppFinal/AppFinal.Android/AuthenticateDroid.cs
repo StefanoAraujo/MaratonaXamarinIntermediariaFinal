@@ -16,7 +16,7 @@ namespace AppFinal.Droid
             {
                 return await client.LoginAsync(Xamarin.Forms.Forms.Context, provider);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return null;
             }

@@ -1,2 +1,2 @@
 android.app.Application
-AppFinal.Android
+com.xamfinalappmaraton.android
